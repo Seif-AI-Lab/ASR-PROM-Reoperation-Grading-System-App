@@ -60,6 +60,6 @@ Random seeds, train/calibration/test split rules, cross-validation settings, cal
 After the repository is finalized, create a GitHub release and archive the release on Zenodo to obtain a DOI. Replace the placeholder DOI below after Zenodo generates the final archived record.
 
 ```text
-GitHub: https://github.com/YOUR_GITHUB_USERNAME/asr-prom-reoperation-risk
-DOI: https://doi.org/10.5281/zenodo.XXXXXXX
+GitHub: https://github.com/Seif-AI-Lab/ASR-PROM-Reoperation-Grading-System-App
+DOI: https://doi.org/10.5281/zenodo.21091849
 ```
