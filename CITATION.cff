@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived software release."
+title: "ASR PROM Reoperation Risk Analysis"
+version: "1.0.0"
+date-released: "2026-07-01"
+authors:
+  - family-names: "Gholampour"
+    given-names: "Seifollah"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/asr-prom-reoperation-risk"
+license: "MIT"
