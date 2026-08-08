@@ -4,21 +4,21 @@ This repository contains analysis code for PROM-based lumbar reoperation risk pr
 
 ## Contents
 
-- `notebooks/Step_1_Analysis_and_Grading_System.ipynb`  
+* `notebooks/Step_1_Analysis_and_Grading_System.ipynb`
   Step 1 preoperative PROM analysis, final model analysis, optional death-retained sensitivity analysis, grading-system construction, and survival validation.
 
-- `notebooks/Step_2_Analysis.ipynb`  
+* `notebooks/Step_2_Analysis.ipynb`
   Step 2 dynamic ODI analysis, final model analysis, sensitivity analyses, hospital analyses, and survival analysis.
 
-- `scripts/`  
+* `scripts/`
   Python exports of the notebooks for code review and archival convenience.
 
-- `docs/code_run_order.md`  
+* `docs/code_run_order.md`
   Suggested execution order and expected input files.
 
 ## Data availability
 
-The original registry data are not included in this repository because of data-use restrictions and patient privacy requirements. The code expects the required input CSV files to be available locally or in the Colab `/content/` directory.
+The original registry data are not included in this repository because of data-use restrictions and patient privacy requirements. The code expects the required input CSV files to be available locally or in the Google Colab `/content/` directory.
 
 ## Required input files
 
@@ -57,9 +57,9 @@ Random seeds, train/calibration/test split rules, cross-validation settings, cal
 
 ## Code archive
 
-After the repository is finalized, create a GitHub release and archive the release on Zenodo to obtain a DOI. Replace the placeholder DOI below after Zenodo generates the final archived record.
+The analysis code is available on GitHub and has been archived on Zenodo.
 
 ```text
 GitHub: https://github.com/Seif-AI-Lab/ASR-PROM-Reoperation-Grading-System-App
-DOI: https://doi.org/10.5281/zenodo.21091849
+Zenodo: https://doi.org/10.5281/zenodo.21091849
 ```
